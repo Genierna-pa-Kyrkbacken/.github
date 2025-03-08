@@ -40,6 +40,12 @@
 - [ ] Skapa en översikt över alla templates och deras tänkta användningsområden
 - [ ] Upprätta guidelines för när repository-specifika templates ska användas (minimera detta)
 
+## Länkfixar
+- [ ] Fixa länkar i README.md
+  - [ ] Länk till "Genierna på Github" meta-repository
+  - [ ] Länk till "Projektstruktur och Målramverk" dokument
+  - [ ] Länk till GitHub-dokumentation för organisationsmallar
+
 ## Prioritet
 1. Förbättra befintlig växtlighetsmall
 2. Skapa grundläggande mallar för hus- och trädgårdsprojekt
