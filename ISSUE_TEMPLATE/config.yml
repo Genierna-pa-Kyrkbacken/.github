@@ -1,0 +1,14 @@
+# .github/ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: true
+contact_links:
+  - name: Organisation Documentation
+    url: https://github.com/Genierna-pa-Kyrkbacken
+    about: General information about our organization
+
+# Template configs
+# This makes the template visible in the specified repositories
+template_repositories:
+  - Genierna-pa-Kyrkbacken/Hus-Strovelstorp
+  - Genierna-pa-Kyrkbacken/Hus-Billesholm
+  - Genierna-pa-Kyrkbacken/tradgard-strovelstorp
+  - Genierna-pa-Kyrkbacken/Tradgard-Billesholm
